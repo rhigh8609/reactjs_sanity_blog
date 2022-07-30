@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reactjs_sanity_blog/static/css/main.0f49001f.css",
+    "main.js": "/reactjs_sanity_blog/static/js/main.b820fd3a.js",
+    "static/js/787.c3f265c4.chunk.js": "/reactjs_sanity_blog/static/js/787.c3f265c4.chunk.js",
+    "index.html": "/reactjs_sanity_blog/index.html",
+    "main.0f49001f.css.map": "/reactjs_sanity_blog/static/css/main.0f49001f.css.map",
+    "main.b820fd3a.js.map": "/reactjs_sanity_blog/static/js/main.b820fd3a.js.map",
+    "787.c3f265c4.chunk.js.map": "/reactjs_sanity_blog/static/js/787.c3f265c4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f49001f.css",
+    "static/js/main.b820fd3a.js"
+  ]
+}
